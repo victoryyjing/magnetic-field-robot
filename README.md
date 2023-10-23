@@ -3,4 +3,4 @@
 
 • Developed a receiver circuit equipped with PIC32 microcontroller, UART protocols, and ISRs, enabling a control system that allows the robot car to respond to transmitter commands with precise movements.
 
-Video Demo: https://www.youtube.com/shorts/qp7Fan6p_2g (Courtesy of group member Suchir Srivastava)
+Video Demo: https://www.youtube.com/shorts/qp7Fan6p_2g (courtesy of fellow group member Suchir Srivastava)
